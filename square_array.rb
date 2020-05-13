@@ -1,7 +1,7 @@
 
-def square_array(new_numbers)
-  new_numbers = []
-  new_numbers.each  |number| numbers << number ** 2
+def square_array(numbers)
+  numbers = []
+  numbers.each  |number| numbers << number ** 2
 end
-   new_numbers
+   numbers
  end
